@@ -2,7 +2,7 @@
 ## Creating a Bootable USB
 [Here is the first link to how to create bootable USB](https://www.youtube.com/watch?v=NSRCZEKDMK8)
 [Here is the first link how to create bootable USB](https://www.youtube.com/watch?v=abpAPQH1RsI)
-##Steps
+## Steps
 
 Method 1: Using Rufus (recommended for most cases)
 Download Rufus:
