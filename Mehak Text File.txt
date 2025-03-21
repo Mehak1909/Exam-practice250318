@@ -1,0 +1,15 @@
+
+C:\work>wmic diskdrive get caption, size, model
+Caption                 Model                   Size
+KINGSTON SUV400S37240G  KINGSTON SUV400S37240G  240054796800
+PC SN740 NVMe WD 1TB    PC SN740 NVMe WD 1TB    1024203640320
+
+
+C:\work>wmic memorychip get capacity, speed, manufacturer
+Capacity     Manufacturer  Speed
+34359738368  80CE000080CE  4800
+
+
+C:\work>wmic path win32_videocontroller get caption, adapterram, driverversion
+AdapterRAM  Caption                    DriverVersion
+2147479552  Intel(R) UHD Graphics 770  32.0.101.6078
