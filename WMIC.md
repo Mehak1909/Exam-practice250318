@@ -10,16 +10,19 @@ Creates a new instance, and sets the property values.
 
 Here is somelinks which i will give below the line
 [1st Link](https://learn.microsoft.com/en-us/windows/win32/wmisdk/wmic)
-Example:Disk Drive Information: To list all disk drives and their details:
-cmd
 
-wmic diskdrive get caption, size, model
 [2nd Link](https://www.techtarget.com/searchenterprisedesktop/definition/Windows-Management-Instrumentation-Command-line-WMIC)
+
+[3rd Link](https://en.wikipedia.org/wiki/Windows_Management_Instrumentation)
+there are some examples of WMIC cmd
 Example: Memory Information: To retrieve information about the physical memory:
 cmd
 
 wmic memorychip get capacity, speed, manufacturer
-[3rd Link](https://en.wikipedia.org/wiki/Windows_Management_Instrumentation)
+Example:Disk Drive Information: To list all disk drives and their details:
+cmd
+
+wmic diskdrive get caption, size, model
 Example: Video Controller (Graphics Card) Information: To obtain details about the video controller:
 cmd
 
